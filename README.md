@@ -13,4 +13,5 @@ This is a Clothing Store website built with HTML, CSS, and JavaScript. It allows
 2. CSS: Style the layout and appearance of the website
 3. JavaScript: Handle cart functionality, adding/removing items, and updating the total
 
-   
+ ![Clothing Store Preview]()
+  
